@@ -1,10 +1,10 @@
 {
-    "name": "Dark Elabs",
-    "description": "Make SRM Elabs Dark",
+    "name": "Dark Theme",
+    "description": "Make Websites Dark",
     "version": "1.0.0",
     "manifest_version": 2,
     "browser_action": {
-        "default_title": "Dark Elabs",
+        "default_title": "Dark Theme",
         "default_icon": "icon.png",
         "default_popup": "index.html"
     },
